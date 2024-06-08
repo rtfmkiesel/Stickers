@@ -1,0 +1,296 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+<!-- Created by @rtfmkiesel -->
+<!-- Licensed under CC0 1.0 Universal -->
+
+<svg
+   width="1080"
+   height="1080"
+   viewBox="0 0 1080 1080"
+   version="1.1"
+   id="svg1"
+   inkscape:version="1.3 (0e150ed6c4, 2023-07-21)"
+   sodipodi:docname="unencrypted_no_thanks_EN.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#393939"
+     bordercolor="#ffffff"
+     borderopacity="1"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="true"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="px"
+     inkscape:zoom="0.78055555"
+     inkscape:cx="474.66193"
+     inkscape:cy="574.59075"
+     inkscape:window-width="1920"
+     inkscape:window-height="1131"
+     inkscape:window-x="0"
+     inkscape:window-y="32"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     inkscape:lockguides="false"
+     showguides="true">
+    <inkscape:grid
+       id="grid2"
+       units="px"
+       originx="0"
+       originy="0"
+       spacingx="1"
+       spacingy="1"
+       empcolor="#0099e5"
+       empopacity="0.30196078"
+       color="#0099e5"
+       opacity="0.14901961"
+       empspacing="5"
+       dotted="false"
+       gridanglex="30"
+       gridanglez="30"
+       visible="false" />
+  </sodipodi:namedview>
+  <defs
+     id="defs1">
+    <inkscape:path-effect
+       effect="envelope"
+       id="path-effect2"
+       is_visible="true"
+       lpeversion="1"
+       yy="true"
+       xx="true"
+       bendpath1="M 356.59346,356.59346 H 723.40654"
+       bendpath2="M 723.40654,356.59346 V 723.40654"
+       bendpath3="M 356.59346,723.40654 H 723.40654"
+       bendpath4="M 356.59346,356.59346 V 723.40654" />
+  </defs>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <circle
+       style="display:inline;fill:#1a1a1a;stroke:#ffffff;stroke-width:5;stroke-opacity:1;stroke-dasharray:none"
+       id="path1"
+       cx="589.573"
+       cy="485.3902"
+       r="518.32892"
+       inkscape:label="Outer Circle"
+       transform="rotate(5.5356789)" />
+    <path
+       id="circle1"
+       style="display:none;fill:#ff0000;stroke-width:1.04615"
+       inkscape:label="Red Circle Text Align Bottom"
+       d="m 177.94273,857.94731 a 481.8464,481.8464 0 0 0 680.00463,44.10994 481.8464,481.8464 0 0 0 44.10988,-680.0046 481.8464,481.8464 0 0 0 -680.00459,-44.1099 481.8464,481.8464 0 0 0 -44.10992,680.00456 z" />
+    <ellipse
+       style="display:none;fill:#ff0000;stroke:none;stroke-width:0.808994"
+       id="circle2"
+       cx="-678.55328"
+       cy="-350.55429"
+       inkscape:label="Red Circle Text Align Top"
+       transform="matrix(-0.95279354,-0.30361895,0.30386512,-0.95271506,0,0)"
+       rx="372.9184"
+       ry="372.30991" />
+    <g
+       id="g2"
+       inkscape:label="Sun"
+       transform="matrix(1.0765516,0,0,1.1628811,-27.08365,-77.157214)"
+       style="display:inline">
+      <ellipse
+         style="fill:#ff0000;stroke-width:3.96309"
+         id="path2"
+         cx="540"
+         cy="540"
+         rx="320.58743"
+         ry="246.16429"
+         inkscape:label="Red" />
+      <g
+         id="g1"
+         style="display:inline;fill:#1a1a1a"
+         inkscape:label="Cutouts">
+        <ellipse
+           style="fill:#1a1a1a;stroke:none;stroke-width:1.18037"
+           id="path5"
+           cx="595.55396"
+           cy="784.96912"
+           rx="47.068222"
+           ry="56.36005" />
+        <ellipse
+           style="fill:#1a1a1a;stroke:none;stroke-width:1.24604"
+           id="ellipse5"
+           cx="663.58868"
+           cy="779.4917"
+           rx="51.157261"
+           ry="57.785473" />
+        <ellipse
+           style="fill:#1a1a1a;stroke:none;stroke-width:1.18037"
+           id="ellipse6"
+           cx="733.8894"
+           cy="742.90491"
+           rx="47.068222"
+           ry="56.36005" />
+        <ellipse
+           style="fill:#1a1a1a;stroke:none;stroke-width:1.18037"
+           id="ellipse7"
+           cx="807.43359"
+           cy="691.30719"
+           rx="47.068222"
+           ry="56.36005" />
+        <ellipse
+           style="fill:#1a1a1a;stroke:none;stroke-width:1.18037"
+           id="ellipse9"
+           cx="849.86456"
+           cy="592.54761"
+           rx="47.068222"
+           ry="56.36005" />
+        <ellipse
+           style="fill:#1a1a1a;stroke:none;stroke-width:1.18037"
+           id="ellipse10"
+           cx="845.02087"
+           cy="496.71774"
+           rx="47.068222"
+           ry="56.36005" />
+        <ellipse
+           style="fill:#1a1a1a;stroke:none;stroke-width:0.962245"
+           id="ellipse11"
+           cx="666.96405"
+           cy="290.87766"
+           rx="33.349701"
+           ry="52.861843" />
+        <ellipse
+           style="fill:#1a1a1a;stroke:none;stroke-width:0.962245"
+           id="ellipse12"
+           cx="610.91919"
+           cy="276.89172"
+           rx="33.349701"
+           ry="52.861843" />
+        <ellipse
+           style="fill:#1a1a1a;stroke:none;stroke-width:1.18037"
+           id="ellipse13"
+           cx="-659.72455"
+           cy="473.59464"
+           rx="47.068222"
+           ry="56.36005"
+           transform="rotate(-120.76243)" />
+        <ellipse
+           style="fill:#1a1a1a;stroke:none;stroke-width:1.18037"
+           id="ellipse15"
+           cx="238.60022"
+           cy="441.54004"
+           rx="47.068222"
+           ry="56.36005" />
+        <ellipse
+           style="fill:#1a1a1a;stroke:none;stroke-width:1.18037"
+           id="ellipse16"
+           cx="300.03738"
+           cy="367.42584"
+           rx="47.068222"
+           ry="56.36005" />
+        <ellipse
+           style="fill:#1a1a1a;stroke:none;stroke-width:1.18037"
+           id="ellipse17"
+           cx="382.0451"
+           cy="328.47205"
+           rx="47.068222"
+           ry="56.36005" />
+        <ellipse
+           style="fill:#1a1a1a;stroke:none;stroke-width:1.18037"
+           id="ellipse18"
+           cx="462.9678"
+           cy="290.52005"
+           rx="47.068222"
+           ry="56.36005" />
+        <ellipse
+           style="fill:#1a1a1a;stroke:none;stroke-width:1.18037"
+           id="ellipse19"
+           cx="545.6615"
+           cy="263.37949"
+           rx="47.068222"
+           ry="56.36005" />
+        <ellipse
+           style="fill:#1a1a1a;stroke:none;stroke-width:1.18037"
+           id="ellipse20"
+           cx="511.03976"
+           cy="797.23065"
+           rx="47.068222"
+           ry="56.36005" />
+        <ellipse
+           style="fill:#1a1a1a;stroke:none;stroke-width:1.18037"
+           id="ellipse21"
+           cx="430.85373"
+           cy="798.0484"
+           rx="47.068222"
+           ry="56.36005" />
+        <ellipse
+           style="fill:#1a1a1a;stroke:none;stroke-width:1.18037"
+           id="ellipse22"
+           cx="203.65419"
+           cy="539.46777"
+           rx="47.068222"
+           ry="56.36005" />
+        <ellipse
+           style="fill:#1a1a1a;stroke:none;stroke-width:1.20485"
+           id="ellipse23"
+           cx="353.90335"
+           cy="747.99536"
+           rx="50.047241"
+           ry="55.226948" />
+        <ellipse
+           style="fill:#1a1a1a;stroke:none;stroke-width:1.18037"
+           id="ellipse24"
+           cx="275.3996"
+           cy="703.30707"
+           rx="47.068222"
+           ry="56.36005" />
+        <ellipse
+           style="fill:#1a1a1a;stroke:none;stroke-width:1.19847"
+           id="ellipse25"
+           cx="-124.84763"
+           cy="656.63812"
+           rx="67.391273"
+           ry="40.580555"
+           transform="matrix(0.86500662,-0.50176044,0.49761841,0.86739606,0,0)" />
+        <ellipse
+           style="fill:#1a1a1a;stroke:none;stroke-width:1.18037"
+           id="ellipse26"
+           cx="806.12769"
+           cy="396.77563"
+           rx="47.068222"
+           ry="56.36005" />
+      </g>
+      <text
+         xml:space="preserve"
+         style="font-weight:bold;font-size:166.875px;font-family:'Liberation Mono';-inkscape-font-specification:'Liberation Mono, Bold';writing-mode:lr-tb;fill:#ffff00;stroke-width:1.13778"
+         x="327.33215"
+         y="574.05945"
+         id="text1"
+         inkscape:label="Smily"><tspan
+           sodipodi:role="line"
+           id="tspan1"
+           x="327.33215"
+           y="574.05945"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:166.875px;font-family:'Comic Neue';-inkscape-font-specification:'Comic Neue, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#1a1a1a;stroke-width:1.13778">◠‿◠</tspan></text>
+    </g>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:126.667px;font-family:'Comic Neue';-inkscape-font-specification:'Comic Neue, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;letter-spacing:15px;display:inline;fill:#ffffff;stroke:none;fill-opacity:1"
+       id="text2"
+       inkscape:label="Nein Danke"
+       transform="matrix(0.9999977,0,0,0.9999977,4.9940842e-4,0.00201319)"><textPath
+         xlink:href="#circle1"
+         id="textPath2"
+         style="letter-spacing:15px;fill:#ffffff;fill-opacity:1">NO THANKS!</textPath></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:126.667px;font-family:'Comic Neue';-inkscape-font-specification:'Comic Neue, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;letter-spacing:4.2px;display:inline;fill:#ffffff;stroke:none;fill-opacity:1"
+       id="text3"
+       inkscape:label="Unverschluesselt"><textPath
+         xlink:href="#circle2"
+         id="textPath3"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:126.667px;font-family:'Comic Neue';-inkscape-font-specification:'Comic Neue, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;letter-spacing:4.2px;fill:#ffffff;fill-opacity:1">UNENCRYPTED?</textPath></text>
+  </g>
+</svg>
