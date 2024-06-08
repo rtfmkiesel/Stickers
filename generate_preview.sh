@@ -1,6 +1,6 @@
 #!/bin/sh
 
-svgs=$(find . -type f -name "*.svg")
+svgs=$(find ./stickers -type f -name "*.svg")
 for svg in $svgs; do
 	filename=$(basename "$svg")
 	name="${filename%.*}"
